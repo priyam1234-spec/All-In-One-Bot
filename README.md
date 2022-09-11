@@ -35,5 +35,5 @@
 7. Click "Create Monitor"
 8. Boom! You Are Done!
 # Alternative To UptimeRobot
-There Are Many Discord Monitoring Bots Like [Monitor Bot](https://top.gg/bot/863456804679974927). Also There Are Many Bots Like These But You Just Search And Find It. ([Note That Monitor Bot Can Not Be Invited To Your Server As It Can Not Be Verified. Join This Server As It Has Monitor Bot And It Is The Server Of The Developers Of Monitor Bot](https://discord.gg/ckhk8qrZsR)
+There Are Many Discord Monitoring Bots Like [Monitor Bot](https://top.gg/bot/863456804679974927). Also There Are Many Bots Like These But You Just Search And Find It. ([Note That Monitor Bot Can Not Be Invited To Your Server As It Can Not Be Verified. Join This Server As It Has Monitor Bot And It Is The Server Of The Developers Of Monitor Bot.](https://discord.gg/ckhk8qrZsR))
    
