@@ -13,7 +13,8 @@
 - Alt-Detector, ModLogs And Many More!
 
 # 🚧 Prerequisites
-1. Node.js 14+
+1. [Node.js 14+](https://nodejs.org/en/download/)
+2. [Amethyste API](https://api.amethyste.moe/dashboard)
 
 # Rules : 
 - **You Are Not Permitted To Use This Bot For Anything Other Than Personal  Purposes**
@@ -34,5 +35,5 @@
 7. Click "Create Monitor"
 8. Boom! You Are Done!
 # Alternative To UptimeRobot
-There Are Many Discord Monitoring Bots Like [Monitor Bot](https://top.gg/bot/863456804679974927). Also There Are Many Bots Like These But You Just Search And Find It.
+There Are Many Discord Monitoring Bots Like [Monitor Bot](https://top.gg/bot/863456804679974927). Also There Are Many Bots Like These But You Just Search And Find It. ([Note That Monitor Bot Can Not Be Invited To Your Server As It Can Not Be Verified. Join This Server As It Has Monitor Bot And It Is The Server Of The Developers Of Monitor Bot](https://discord.gg/ckhk8qrZsR)
    
